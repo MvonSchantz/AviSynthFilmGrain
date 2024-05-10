@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AviSynthFilmGrain", "AviSynthFilmGrain.vcxproj", "{C2C15E42-50C5-4052-AD0E-963264D02C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Debug|Win32.Build.0 = Debug|Win32
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Debug|x64.ActiveCfg = Debug|x64
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Debug|x64.Build.0 = Debug|x64
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Release|Win32.ActiveCfg = Release|Win32
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Release|Win32.Build.0 = Release|Win32
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Release|x64.ActiveCfg = Release|x64
+		{C2C15E42-50C5-4052-AD0E-963264D02C53}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809567A2-0B9B-4A4C-9B3D-DF79FDD573AC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AviSynthFilmGrain.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
