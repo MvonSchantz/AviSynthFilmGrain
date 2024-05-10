@@ -1,5 +1,5 @@
 # AviSynthFilmGrain
-AviSynth filter for adding realistic film grain to videos using the algorithm described in "**Realistic Film Grain Rendering**" by *Alasdair Newson*, *Noura Faraj*, *Julie Delon* and *Bruno Galerne*.
+AviSynth filter for adding realistic film grain to videos using the algorithm described in "**Realistic Film Grain Rendering**" by *Alasdair Newson*, *Noura Faraj*, *Julie Delon* and *Bruno Galerne*.  
 Filter implementation copyright (c) 2022-2024  Mattias von Schantz.
 
 The collection includes the following filters:
